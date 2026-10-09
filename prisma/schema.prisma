@@ -1,3 +1,4 @@
+//Database schema for Sweet Shop application using Prisma ORM
 generator client {
   provider = "prisma-client-js"
   output   = "../src/generated/prisma"
